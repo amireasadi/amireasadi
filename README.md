@@ -1,9 +1,9 @@
 ## Hi this is Amir
 
--  I'm currently learning ASP.NET Core amd Angular (And everything C# and Javascript related :) )
+-  I'm currently learning ASP.NET Core and Angular (and everything C# and Javascript related :) )
 -  Open to Backend / Frontend Developer opportunities  
 -  Reach me at: [amasadi2001@gmail.com](mailto:amasadi2001@gmail.com)
--  Struggling with random books
+-  Always buried in a random book
 
 
 ### What I know
